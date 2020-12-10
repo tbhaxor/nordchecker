@@ -1,8 +1,9 @@
 # NordChecker
 
+> This is no longer maintained. Please fork it and add your own features or patch bugs
+
 **NordChecker** is an advanced version of [NordChecker](https://github.com/Alvixeon/NordVPN-checker) and also influenced by it. It is a seleium driven application used to bypass almost all the security checks nordvpn is using to block bots
 
-<p style="text-align: center"><img src="https://instagram.fdel1-1.fna.fbcdn.net/vp/84a0d97b9f9c59f22829fa6d4bde3337/5DAE656C/t51.2885-15/e35/65933975_2933186496754847_188045612046901640_n.jpg?_nc_ht=instagram.fdel1-1.fna.fbcdn.net"></p>
 
 ## Requirements
 
